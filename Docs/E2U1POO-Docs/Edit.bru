@@ -1,0 +1,24 @@
+meta {
+  name: Edit
+  type: http
+  seq: 6
+}
+
+put {
+  url: {{PATH}}/empleados/1
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+      "name": "Juan",
+      "lastNames": "Perez",
+      "document": "0801200418000",
+      "dateContrat": "2025-01-12T00:00:00",
+      "departament": "Ventas",
+      "workState": "Gerente",
+      "salarioBase": 80000,
+      "active": true
+    }
+}

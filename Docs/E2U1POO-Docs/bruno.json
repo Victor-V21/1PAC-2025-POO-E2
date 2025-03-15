@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "E2U1POO-Docs",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
