@@ -10,5 +10,6 @@ namespace E1U2POO.API.Services.Interfaces
         Task<ResponseDto<EmpleadosActionResponseDto>> CreateAsync(EmpleadosCreateDto dto);
         Task<ResponseDto<EmpleadosActionResponseDto>> EditAsync(EmpleadosEditDto dto, int id);
         Task<ResponseDto<EmpleadosActionResponseDto>> DeleteAsync(int id);
+        Task<ResponseDto<List<EmpleadosActionResponseDto>>> OnlyActives();
     }
 }

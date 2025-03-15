@@ -3,6 +3,7 @@ using E1U2POO.API.Helpers;
 using E1U2POO.API.Services;
 using E1U2POO.API.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,8 @@ builder.Services.AddDbContext<PlanillaDbContext>(option =>
 
 // Add Interfaces
 builder.Services.AddTransient<IEmpleadosServices, EmpleadoServices>();
+builder.Services.AddTransient<IPlanillaServices, PlanillaServices>();
+builder.Services.AddTransient<IDetallePlanillaServices, DetallePlanillaServices>();
 
 builder.Services.AddAutoMapper(typeof(AutoMappersProfiles));
 
@@ -30,6 +33,7 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+    app.MapScalarApiReference();
 }
 
 app.UseHttpsRedirection();

@@ -57,5 +57,13 @@ namespace E1U2POO.API.Controllers
 
             return StatusCode(response.StatusCode, response);
         }
+
+        [HttpGet("activos")]
+        public async Task<ActionResult<ResponseDto<EmpleadosActionResponseDto>>> GetActives()
+        {
+            var response = await _services.OnlyActives();
+
+            return StatusCode(response.StatusCode, response);
+        }
     }
 }

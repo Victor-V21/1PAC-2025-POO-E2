@@ -3,6 +3,7 @@ using E1U2POO.API.Database;
 using E1U2POO.API.Database.Entities;
 using E1U2POO.API.Dtos;
 using E1U2POO.API.Dtos.Empleados;
+using E1U2POO.API.Dtos.Planillas;
 using E1U2POO.API.Services.Interfaces;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -133,9 +134,7 @@ namespace E1U2POO.API.Services
                 };
             }
 
-            empleadoEntity.Active = false;
-
-            _context.Update(empleadoEntity);
+            _context.Remove(empleadoEntity);
 
             await _context.SaveChangesAsync();
 
@@ -147,6 +146,20 @@ namespace E1U2POO.API.Services
                 Data = _mapper.Map<EmpleadosActionResponseDto>(empleadoEntity)
             };
         }
+
+        public async Task<ResponseDto<List<EmpleadosActionResponseDto>>> OnlyActives()
+        {
+            var empleadoEntities = await _context.Empleados.Where(x => x.Active == true).ToListAsync();
+
+            return new ResponseDto<List<EmpleadosActionResponseDto>>
+            {
+                StatusCode = Constants.HttpStatusCode.OK,
+                Status = true,
+                Message = "Registro desactivado correctamente",
+                Data = _mapper.Map<List<EmpleadosActionResponseDto>>(empleadoEntities)
+            };
+        }
+
 
     }
 }

@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using E1U2POO.API.Database.Entities;
 using E1U2POO.API.Dtos.Empleados;
+using E1U2POO.API.Dtos.Planillas;
 
 namespace E1U2POO.API.Helpers
 {
@@ -13,6 +14,12 @@ namespace E1U2POO.API.Helpers
             CreateMap<EmpleadosCreateDto, EmpleadoEntity>(); // Para crear
 
             CreateMap<EmpleadoEntity, EmpleadosActionResponseDto>();
+
+            // De planillas
+
+            CreateMap<PlanillaEntity, PlanillaDto>();
+            CreateMap<PlanillaCreateDto, PlanillaEntity>();
+            CreateMap<PlanillaEntity, PlanillaActionResponseDto>();
         }
     }
 }

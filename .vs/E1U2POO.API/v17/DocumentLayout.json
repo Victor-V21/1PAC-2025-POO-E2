@@ -3,56 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\services\\planillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\services\\planillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\services\\empleadoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\services\\empleadoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\services\\detalleplanillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\services\\detalleplanillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\services\\interfaces\\iplanillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\services\\interfaces\\iplanillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\planillas\\planilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\planillas\\planilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\planillas\\planillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\planillas\\planillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\planillas\\planillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\planillas\\planillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\planillas\\planillaactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\planillas\\planillaactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\database\\entities\\planillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\database\\entities\\planillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\controllers\\detalleplanillascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\controllers\\detalleplanillascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\services\\interfaces\\iempleadosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\services\\interfaces\\iempleadosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\controllers\\planillascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\controllers\\planillascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\empleados\\empleadoscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\empleados\\empleadoscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\detalleplanilla\\detalleplanillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\detalleplanilla\\detalleplanillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\detalleplanilla\\detalleplanilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\detalleplanilla\\detalleplanilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\detalleplanilla\\detalleplanillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\detalleplanilla\\detalleplanillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\empleados\\empleadosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\empleados\\empleadosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\empleados\\empleadoseditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\empleados\\empleadoseditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\planillas\\planillaactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\planillas\\planillaactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\services\\interfaces\\idetalleplanillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\services\\interfaces\\idetalleplanillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\services\\planillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\services\\planillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\database\\entities\\detalleplanillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\database\\entities\\detalleplanillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\services\\empleadoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\services\\empleadoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\database\\planilladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\database\\planilladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\services\\interfaces\\iempleadosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\services\\interfaces\\iempleadosservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\planillas\\planillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\planillas\\planillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\helpers\\automappersprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\helpers\\automappersprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\services\\interfaces\\iplanillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\services\\interfaces\\iplanillaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\planillas\\planillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\planillas\\planillaeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\database\\entities\\planillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\database\\entities\\planillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\planillas\\planilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\planillas\\planilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\empleados\\empleadoscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\empleados\\empleadoscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\empleados\\empleadosactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,24 +111,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E1U2POO.API\\Migrations\\20250314232939_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\helpers\\automappersprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\helpers\\automappersprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\e1u2poo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\e1u2poo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\dtos\\empleados\\empleadoseditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\dtos\\empleados\\empleadoseditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\database\\entities\\detalleplanillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\database\\entities\\detalleplanillaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\database\\entities\\empleadoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,10 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|c:\\users\\victor\\projects\\unidad2\\e1u2poo.api\\e1u2poo.api\\database\\planilladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14B634DA-D81D-4134-A8B0-8DC25D160967}|E1U2POO.API\\E1U2POO.API.csproj|solutionrelative:e1u2poo.api\\database\\planilladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,7 +142,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetallePlanillasController.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Controllers\\DetallePlanillasController.cs",
+              "RelativeDocumentMoniker": "E1U2POO.API\\Controllers\\DetallePlanillasController.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Controllers\\DetallePlanillasController.cs",
+              "RelativeToolTip": "E1U2POO.API\\Controllers\\DetallePlanillasController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:35:40.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetallePlanillaEditDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\DetallePlanilla\\DetallePlanillaEditDto.cs",
+              "RelativeDocumentMoniker": "E1U2POO.API\\Dtos\\DetallePlanilla\\DetallePlanillaEditDto.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\DetallePlanilla\\DetallePlanillaEditDto.cs",
+              "RelativeToolTip": "E1U2POO.API\\Dtos\\DetallePlanilla\\DetallePlanillaEditDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:06:27.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetallePlanillaCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\DetallePlanilla\\DetallePlanillaCreateDto.cs",
+              "RelativeDocumentMoniker": "E1U2POO.API\\Dtos\\DetallePlanilla\\DetallePlanillaCreateDto.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\DetallePlanilla\\DetallePlanillaCreateDto.cs",
+              "RelativeToolTip": "E1U2POO.API\\Dtos\\DetallePlanilla\\DetallePlanillaCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:05:52.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "DetallePlanillaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\DetallePlanilla\\DetallePlanillaDto.cs",
+              "RelativeDocumentMoniker": "E1U2POO.API\\Dtos\\DetallePlanilla\\DetallePlanillaDto.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\DetallePlanilla\\DetallePlanillaDto.cs",
+              "RelativeToolTip": "E1U2POO.API\\Dtos\\DetallePlanilla\\DetallePlanillaDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:05:33.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetallePlanillaServices.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Services\\DetallePlanillaServices.cs",
+              "RelativeDocumentMoniker": "E1U2POO.API\\Services\\DetallePlanillaServices.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Services\\DetallePlanillaServices.cs",
+              "RelativeToolTip": "E1U2POO.API\\Services\\DetallePlanillaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:04:59.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDetallePlanillaServices.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Services\\Interfaces\\IDetallePlanillaServices.cs",
+              "RelativeDocumentMoniker": "E1U2POO.API\\Services\\Interfaces\\IDetallePlanillaServices.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Services\\Interfaces\\IDetallePlanillaServices.cs",
+              "RelativeToolTip": "E1U2POO.API\\Services\\Interfaces\\IDetallePlanillaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:03:26.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlanillasController.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Controllers\\PlanillasController.cs",
+              "RelativeDocumentMoniker": "E1U2POO.API\\Controllers\\PlanillasController.cs",
+              "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Controllers\\PlanillasController.cs",
+              "RelativeToolTip": "E1U2POO.API\\Controllers\\PlanillasController.cs",
+              "ViewState": "AgIAADQAAACAzMzMzMwkwEYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T03:00:15.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "PlanillaActionResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\Planillas\\PlanillaActionResponseDto.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Dtos\\Planillas\\PlanillaActionResponseDto.cs",
@@ -127,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "PlanillaEditDto.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\Planillas\\PlanillaEditDto.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Dtos\\Planillas\\PlanillaEditDto.cs",
@@ -140,20 +259,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "PlanillaCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\Planillas\\PlanillaCreateDto.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Dtos\\Planillas\\PlanillaCreateDto.cs",
               "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\Planillas\\PlanillaCreateDto.cs",
               "RelativeToolTip": "E1U2POO.API\\Dtos\\Planillas\\PlanillaCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T01:31:30.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "PlanillaDto.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\Planillas\\PlanillaDto.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Dtos\\Planillas\\PlanillaDto.cs",
@@ -161,51 +280,50 @@
               "RelativeToolTip": "E1U2POO.API\\Dtos\\Planillas\\PlanillaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T01:30:19.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T01:30:19.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "IPlanillaServices.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Services\\Interfaces\\IPlanillaServices.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Services\\Interfaces\\IPlanillaServices.cs",
               "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Services\\Interfaces\\IPlanillaServices.cs",
               "RelativeToolTip": "E1U2POO.API\\Services\\Interfaces\\IPlanillaServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T01:25:38.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "PlanillaServices.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Services\\PlanillaServices.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Services\\PlanillaServices.cs",
               "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Services\\PlanillaServices.cs",
               "RelativeToolTip": "E1U2POO.API\\Services\\PlanillaServices.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAswFcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAMTMzMzMDwJIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T01:25:19.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "EmpleadosController.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Controllers\\EmpleadosController.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Controllers\\EmpleadosController.cs",
               "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Controllers\\EmpleadosController.cs",
               "RelativeToolTip": "E1U2POO.API\\Controllers\\EmpleadosController.cs",
-              "ViewState": "AgIAADAAAAAAMzMzMzMtwDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T00:36:21.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "EmpleadosEditDto.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\Empleados\\EmpleadosEditDto.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Dtos\\Empleados\\EmpleadosEditDto.cs",
@@ -218,46 +336,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "AutoMappersProfiles.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Helpers\\AutoMappersProfiles.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Helpers\\AutoMappersProfiles.cs",
               "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Helpers\\AutoMappersProfiles.cs",
               "RelativeToolTip": "E1U2POO.API\\Helpers\\AutoMappersProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T23:48:45.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "IEmpleadosServices.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Services\\Interfaces\\IEmpleadosServices.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Services\\Interfaces\\IEmpleadosServices.cs",
               "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Services\\Interfaces\\IEmpleadosServices.cs",
               "RelativeToolTip": "E1U2POO.API\\Services\\Interfaces\\IEmpleadosServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T23:38:15.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "EmpleadoServices.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Services\\EmpleadoServices.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Services\\EmpleadoServices.cs",
               "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Services\\EmpleadoServices.cs",
               "RelativeToolTip": "E1U2POO.API\\Services\\EmpleadoServices.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAkwHcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAzczMzMwqwJcAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T23:37:53.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "EmpleadosDto.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\Empleados\\EmpleadosDto.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Dtos\\Empleados\\EmpleadosDto.cs",
@@ -270,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "EmpleadosCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\Empleados\\EmpleadosCreateDto.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Dtos\\Empleados\\EmpleadosCreateDto.cs",
@@ -278,12 +396,11 @@
               "RelativeToolTip": "E1U2POO.API\\Dtos\\Empleados\\EmpleadosCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:37:20.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:37:20.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "EmpleadosActionResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\Empleados\\EmpleadosActionResponseDto.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Dtos\\Empleados\\EmpleadosActionResponseDto.cs",
@@ -291,12 +408,11 @@
               "RelativeToolTip": "E1U2POO.API\\Dtos\\Empleados\\EmpleadosActionResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:36:51.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:36:51.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "ResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Dtos\\ResponseDto.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Dtos\\ResponseDto.cs",
@@ -304,12 +420,11 @@
               "RelativeToolTip": "E1U2POO.API\\Dtos\\ResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:36:34.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:36:34.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "20250314232939_Init.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Migrations\\20250314232939_Init.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Migrations\\20250314232939_Init.cs",
@@ -317,25 +432,24 @@
               "RelativeToolTip": "E1U2POO.API\\Migrations\\20250314232939_Init.cs",
               "ViewState": "AgIAADwAAAAAZmZmZmYSwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:29:39.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:29:39.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Program.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Program.cs",
               "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Program.cs",
               "RelativeToolTip": "E1U2POO.API\\Program.cs",
-              "ViewState": "AgIAAAsAAAAwMzMzMzMdwBAAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T23:28:16.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "E1U2POO.API\\appsettings.Development.json",
@@ -343,12 +457,11 @@
               "RelativeToolTip": "E1U2POO.API\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-14T23:27:27.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:27:27.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 15,
               "Title": "PlanillaDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Database\\PlanillaDbContext.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Database\\PlanillaDbContext.cs",
@@ -361,46 +474,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "E1U2POO.API",
+              "DocumentIndex": 27,
+              "Title": "E1U2POO.API.csproj",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\E1U2POO.API.csproj",
               "RelativeDocumentMoniker": "E1U2POO.API\\E1U2POO.API.csproj",
               "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\E1U2POO.API.csproj",
               "RelativeToolTip": "E1U2POO.API\\E1U2POO.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-14T23:07:11.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:07:11.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 13,
               "Title": "DetallePlanillaEntity.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Database\\Entities\\DetallePlanillaEntity.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Database\\Entities\\DetallePlanillaEntity.cs",
               "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Database\\Entities\\DetallePlanillaEntity.cs",
               "RelativeToolTip": "E1U2POO.API\\Database\\Entities\\DetallePlanillaEntity.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwBgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T23:04:36.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "PlanillaEntity.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Database\\Entities\\PlanillaEntity.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Database\\Entities\\PlanillaEntity.cs",
               "ToolTip": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Database\\Entities\\PlanillaEntity.cs",
               "RelativeToolTip": "E1U2POO.API\\Database\\Entities\\PlanillaEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAMzMzMzMLwAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T23:04:24.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "EmpleadoEntity.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\projects\\unidad2\\E1U2POO.API\\E1U2POO.API\\Database\\Entities\\EmpleadoEntity.cs",
               "RelativeDocumentMoniker": "E1U2POO.API\\Database\\Entities\\EmpleadoEntity.cs",
@@ -408,8 +520,7 @@
               "RelativeToolTip": "E1U2POO.API\\Database\\Entities\\EmpleadoEntity.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:03:51.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T23:03:51.432Z"
             }
           ]
         }
